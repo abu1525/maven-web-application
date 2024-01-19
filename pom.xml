@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Dcube Technologies Releases Nexus Repository</name>
+	      <name>web-re</name>
 	      <url>http://13.48.56.172:8081/repository/web-re/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Dcube Technologies Snapshot Nexus Repository </name>
+	      <name>web-sp </name>
 	      <url>http://13.48.56.172:8081/repository/web-sp/</url>
 	    </snapshotRepository>
 	    
