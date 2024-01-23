@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>web-re</name>
-	      <url>http://13.48.249.46:8081/repository/web-re/</url>
+	      <url>http://13.60.15.11:8081/repository/web-re/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>web-sp</name>
-	      <url>http://13.48.249.46:8081/repository/web-sp/</url>
+	      <url>http://13.60.15.11:8081/repository/web-sp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
